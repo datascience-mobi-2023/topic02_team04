@@ -17,7 +17,7 @@ The researchers goal was to be able to predict the risk for developing such canc
 To get the data for this the researchers created variations of the gene, which had single nucleotide variations (SNVs) in the most important domains (RING and BRCT). They then screened the proteins that where created based on these SNVs for functionality and gave them function scores. From these function scores the dms_scores in our dataset where derived. <br>
 
 Dms values smaller than 0 mean that the protein works worse than the wildtype (>0 = better). 
-The SNVs that lay under a certain dms_score get classified as bin_0 = not funtional. <br>
+The SNVs that lay under a dms_score of -1 get classified as bin_0 = not funcional. <br>
 
 We chose to focus on these proteins and not on the ones that worked (some of which better than the wildtype), because the goal of this research is to evaluate cancer and cancer risk, not to figure out how humans could be genetically engineered in order to become more cancer resistant. <br>
 
