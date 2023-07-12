@@ -26,6 +26,3 @@ We were interested in the correlation of the dms_score with:
 - secondary structures 
 - conserved regions
 - and amino acid exchanges.
-=======
- To refresh your memory on how to manage GitHub, you can find commonly used commands [here](https://github.com/joshnh/Git-Commands). 
->>>>>>> parent of b696987 (Readme und Maras und Ennos Dateien aufgeräumt + kleine final_code Optimierung)
