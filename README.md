@@ -4,7 +4,7 @@
 
 ### The dataset:
 
-<p>Our dataset is taken from the following paper: </p>
+Our dataset is taken from the following paper: <br>
 
 Accurate classification of BRCA1 variants with saturation genome editing
 Gregory M. Findlay1, riza M. Daza1, Beth Martin1, Melissa D. Zhang1, Anh P. leith1, Molly Gasperini1, Joseph D. Janizek1, Xingfan Huang1, lea M. Starita1,2* & Jay Shendure1,2,3*
