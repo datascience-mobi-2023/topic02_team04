@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="84822f63-6c4a-4889-b0a8-14ab77b2e13c" name="Changes" comment="wunderbares notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Felix_code1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Felix_code1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final_code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/final_code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_sequencecomparison_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_sequencelogo_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sequencecomparison_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sequencelogo_output.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\felix\Documents\topic02_team04" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\Documents\topic02_team04\Resources" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +70,7 @@
       <workItem from="1689240347893" duration="12159000" />
       <workItem from="1689335961864" duration="8135000" />
       <workItem from="1689410015567" duration="3704000" />
-      <workItem from="1689429180257" duration="341000" />
+      <workItem from="1689429180257" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="wunderbares notebook">
       <created>1689255827652</created>
