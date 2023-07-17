@@ -16,7 +16,7 @@ The paper is about the homolgy-directed DNA repair gene BRCA1 which plays a cruc
 
 The researchers goal was to be able to predict the risk for developing such cancer or evaluating the risk of an existant cancer based on the DNA sequence of the BRCA1 gene. <br>
 
-To get the data for this the researchers created variations of the gene, which had single nucleotide variations (SNVs) in the most important domains (RING and BRCT). They then screened the proteins that where created based on these SNVs for functionality and gave them function scores. From these function scores the dms_scores in our dataset where derived. <br>
+To get the data for this the researchers created variations of the gene, which had single nucleotide variations (SNVs) in the most important domains (RING and BRCT). It’s important to mention, that it was not possible for the researchers to create every possible SNV at every position. They then screened the proteins that where created based on these SNVs for functionality and gave them function scores. From these function scores the dms_scores in our dataset where derived. <br>
 
 Dms values smaller than 0 mean that the protein works worse than the wildtype (>0 = better). 
 The SNVs that lay under a dms_score of -1 get classified as bin_0 = not funcional. <br>
