@@ -33,4 +33,4 @@ We were interested in the correlation of the dms_score with:
 ### Our code:
 
 All these analyses can be found in our final_code and should work right up, when all code is run.
-If you're interested in the steps that it took us to get to our final code you check the individual folders for each topic.
+If you're interested in the steps that it took us to get to our final code you check the individual folders for each topic in the code archive.
