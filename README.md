@@ -21,7 +21,7 @@ To get the data for this the researchers created variations of the gene, which h
 Dms values smaller than 0 mean that the protein works worse than the wildtype (>0 = better). 
 The SNVs that lay under a dms_score of -1 get classified as bin_0 = not funcional. <br>
 
-### Our analysis goals
+### Our analysis goals:
 
 We chose to focus on these proteins and not on the ones that worked (some of which better than the wildtype), because the goal of this research is to evaluate cancer and cancer risk, not to figure out how humans could be genetically engineered in order to become more cancer resistant. <br>
 
@@ -30,7 +30,7 @@ We were interested in the correlation of the dms_score with:
 - conserved regions
 - and amino acid exchanges.
 
-### Our Code
+### Our code:
 
 All these analyses can be found in our final_code and should work right up, when all code is run.
 If you're interested in the steps that it took us to get to our final code you check the individual folders for each topic.
