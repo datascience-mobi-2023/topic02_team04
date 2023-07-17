@@ -32,5 +32,6 @@ We were interested in the correlation of the dms_score with:
 
 ### Our code:
 
-All these analyses can be found in our final_code and should work right up, when all code is run.
-If you're interested in the steps that it took us to get to our final code you check the individual folders for each topic.
+All these analyses can be found in our "final_code" and should work right up, when all code is run, if for whatever reason this should not be the case just run the code chunks individually. In the "final code" folder  additionally to the code itself is also the final code as a pdf and a folder named "Recources" in which our dataset and additional data for the conservation analysis can be found.
+If you're interested in the steps that it took us to get to our final code you check the individual files for each topic in the code archive.
+The report and a tentative presentation can be found in the "report" folder
